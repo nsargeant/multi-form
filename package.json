@@ -1,0 +1,26 @@
+{
+  "name": "@n8tive/multi-form",
+  "version": "1.0.0",
+  "description": "MultiForm Webcomponent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsargeant/multi-form.git"
+  },
+  "keywords": [
+    "webcomponent"
+  ],
+  "author": "Nathan Sargeant <nathan.s.sargeant@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsargeant/multi-form/issues"
+  },
+  "homepage": "https://github.com/nsargeant/multi-form#readme",
+  "dependencies": {
+    "custom-event": "^1.0.1",
+    "n8tive": "^1.0.0"
+  }
+}
